@@ -1,3 +1,7 @@
-hello world
+
 this is kiran
 git practice
+<<<<<<< HEAD
+=======
+practicing
+>>>>>>> ffce69993838bf55226eba0fc0cbae58ab74203f
